@@ -1,6 +1,6 @@
 {
     "latest_version": "2.2",
-    "minimum_required_version": "2.1",
+    "minimum_required_version": "2.2",
     "download_url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest",
     "changelog": "New features and improvements in version 2.2"
 } 
